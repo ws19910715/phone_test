@@ -1,0 +1,132 @@
+{
+  "uid" : "2843807a80558e83",
+  "name" : "test",
+  "fullName" : "test#test",
+  "historyId" : "30cc95016862367b5f733074708a0145",
+  "time" : {
+    "start" : 1595730969399,
+    "stop" : 1595730981337,
+    "duration" : 11938
+  },
+  "description" : "\n    wifi开关功能测试\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>wifi开关功能测试\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "\n    wifi开关功能测试\n    :return:\n    ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击设置",
+      "time" : {
+        "start" : 1595730969399,
+        "stop" : 1595730973627,
+        "duration" : 4228
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "打开wlan设置",
+      "time" : {
+        "start" : 1595730973627,
+        "stop" : 1595730975695,
+        "duration" : 2068
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "打开wlan开关",
+      "time" : {
+        "start" : 1595730975695,
+        "stop" : 1595730977667,
+        "duration" : 1972
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "关闭wlan开关",
+      "time" : {
+        "start" : 1595730977667,
+        "stop" : 1595730979635,
+        "duration" : 1968
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "78ba93e2f736d2f9",
+      "name" : "wlan页面",
+      "source" : "78ba93e2f736d2f9.attach",
+      "type" : "image/png",
+      "size" : 114972
+    }, {
+      "uid" : "4f4c5153ec401845",
+      "name" : "log",
+      "source" : "4f4c5153ec401845.txt",
+      "type" : "text/plain",
+      "size" : 6022
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-IMUDR6U"
+  }, {
+    "name" : "thread",
+    "value" : "15620-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2843807a80558e83.json",
+  "parameterValues" : [ ]
+}

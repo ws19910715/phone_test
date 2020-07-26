@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-IMUDR6U",
+    "children" : [ {
+      "name" : "13056-MainThread",
+      "children" : [ {
+        "name" : "test",
+        "uid" : "95afc53179a16dac",
+        "parentUid" : "f2710713e8a05719267a00232d245026",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595731092896,
+          "stop" : 1595731105603,
+          "duration" : 12707
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f2710713e8a05719267a00232d245026"
+    } ],
+    "uid" : "4987fa2ac728831a7dc0567df23ebd49"
+  } ]
+}
